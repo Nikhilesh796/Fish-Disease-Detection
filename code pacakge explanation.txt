@@ -1,0 +1,45 @@
+TensorFlow : It is an ml opensource framework developed by google for developing, maintaining ml and dl models.
+	     TensorFlow excels in creating and training neural networks.
+	     TensorFlow supports creating and training ML models.
+	Scalability::	TensorFlow enables training large-scale models on multiple GPUs, TPUs (Tensor Processing Units), or distributed systems.
+		It supports deployment on various platforms, including cloud, mobile, and edge devices.
+
+1.os: Helps your program interact with the computer's files and folders, like creating, deleting, or navigating directories.
+2.cv2: A library for working with images and videos, like resizing, filtering, or detecting objects.
+3.numpy: A toolkit to work with numbers and lists (arrays) in an efficient way, useful for math-heavy tasks.
+4.matplotlib: A library to create visual graphs and charts from data, like line plots or bar charts.
+5.keras: A tool to build and train smart systems (machine learning models) easily.
+6.seaborn: A library to make fancy, colorful graphs that are easy to understand.
+7.pyplot: A part of matplotlib, it provides simple commands to quickly create and customize charts.
+8.pickle: A way to save Python objects (like data or models) into a file and load them back later.
+
+
+
+1. os: Provides functions for interacting with the operating system (e.g., file and directory handling).  
+2. cv2: OpenCV library for computer vision tasks like image processing and manipulation.  
+3. numpy: A library for numerical operations and handling arrays efficiently.  
+4. tensorflow.keras.utils.to_categorical: Converts class vectors into one-hot encoded format for deep learning models.  
+5. keras.layers.MaxPooling2D: Performs down-sampling to reduce spatial dimensions in images.  
+6. keras.layers.Dense: Fully connected neural network layer for processing outputs.  
+7. keras.layers.Dropout: Regularization technique to prevent overfitting by dropping neurons randomly during training.  
+8. keras.layers.Activation: Applies activation functions like ReLU or softmax to introduce non-linearity.  
+9. keras.layers.Flatten: Converts multi-dimensional inputs into a single dimension.  
+10.keras.layers.GlobalAveragePooling2D: Computes the average of spatial features to reduce dimensions.  
+11.keras.layers.BatchNormalization: Normalizes inputs to accelerate training and improve stability.  
+12.keras.layers.LSTM: Implements Long Short-Term Memory networks for sequence modeling tasks.  
+13.keras.layers.Convolution2D: Applies convolution filters for feature extraction from images.  
+14.keras.models.Sequential: Defines a linear stack of layers for building deep learning models.  
+15.keras.models.load_model: Loads pre-trained models saved in Keras format.  
+16.keras.models.Model: Provides more flexibility for creating and customizing models.  
+17.pickle: Serializes and deserializes Python objects for saving and loading data.  
+18.sklearn.metrics.precision_score: Computes precision (true positives / predicted positives).  
+19.sklearn.metrics.recall_score: Computes recall (true positives / actual positives).  
+20.sklearn.metrics.f1_score: Computes the harmonic mean of precision and recall.  
+21.sklearn.metrics.accuracy_score: Calculates the ratio of correctly predicted samples to total samples.  
+22.sklearn.model_selection.train_test_split: Splits data into training and testing sets.  
+23.keras.callbacks.ModelCheckpoint: Saves model checkpoints during training for recovery or evaluation.  
+24.keras: High-level API for building and training deep learning models.  
+25.sklearn.metrics.confusion_matrix: Computes a confusion matrix for evaluating classification models.  
+26.seaborn: Visualization library for statistical data graphics like heatmaps.  
+27.matplotlib.pyplot: Provides tools for creating static, interactive, and animated visualizations.  
+28.keras.applications.VGG16: Pre-trained convolutional neural network model for transfer learning tasks.
